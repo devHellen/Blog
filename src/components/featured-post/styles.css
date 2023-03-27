@@ -6,8 +6,7 @@
 }
 
 .featured-post-imagem {
-    margin-top: 20px;
-    color: #222830;  
+    font-size: 0.9rem;   
     
 }
 
@@ -26,6 +25,6 @@
 
 .featured-post-description {
     margin-top: 20px;
-    color:#222427
+    color:#222427;
 
 }
