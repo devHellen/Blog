@@ -1,0 +1,31 @@
+.featured-post-container {
+    display: flex;
+    justify-content: space-between;
+    color: #222830;
+    margin-top: 120;
+}
+
+.featured-post-imagem {
+    margin-top: 20px;
+    color: #222830;  
+    
+}
+
+.featured-post-container div:nth-child(2) {
+    max-width: 40vw;
+}
+
+.featured-post-date {
+    font-size: 0.9rem;
+}
+
+.featured-post-title {
+    margin-top: 20px;
+    color: #222830;
+}
+
+.featured-post-description {
+    margin-top: 20px;
+    color:#222427
+
+}
